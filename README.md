@@ -5,7 +5,7 @@ This repository contains all the projects that I worked on during my Java intern
 ## Project Descriptions
 
 ### Number Guessing Game
-This project is a simple number guessing game where the user has to guess a number between 1 and 100. The game provides hints to the user to help them guess the number.
+The project is a Number Guessing Game where the program generates a random number, prompts the user to guess, and provides feedback. It includes multiple rounds and score tracking.
 
 ### Student Grade Calculator
 This project is a grade calculator for students. It takes in the student's grades and calculates their final grade based on the weights of each assignment.
