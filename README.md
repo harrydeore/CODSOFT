@@ -8,7 +8,7 @@ This repository contains all the projects that I worked on during my Java intern
 The project is a Number Guessing Game where the program generates a random number, prompts the user to guess, and provides feedback. It includes multiple rounds and score tracking.
 
 ### Student Grade Calculator
-This project is a grade calculator for students. It takes in the student's grades and calculates their final grade based on the weights of each assignment.
+The StudentGradeCalculator Java program calculates and displays a student’s total marks, average percentage, and grade. It takes the number of subjects and their marks as input, then calculates the total and average. Grades are assigned based on the average, and the results are displayed to the user.
 
 ### ATM Interface
 This project is an ATM interface that allows users to perform basic banking transactions such as depositing and withdrawing money.
