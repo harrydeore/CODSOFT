@@ -11,7 +11,7 @@ The project is a Number Guessing Game where the program generates a random numbe
 The StudentGradeCalculator Java program calculates and displays a student’s total marks, average percentage, and grade. It takes the number of subjects and their marks as input, then calculates the total and average. Grades are assigned based on the average, and the results are displayed to the user.
 
 ### ATM Interface
-This project is an ATM interface that allows users to perform basic banking transactions such as depositing and withdrawing money.
+The code, comprising `BankAccount`, `ATM`, and `Main` classes, operates effectively without inheritance. The `ATM` class, through composition, directly accesses `BankAccount` methods. Being in the same package allows these classes to interact, demonstrating that inheritance isn't always necessary for class interaction.
 
 ### Currency Converter
 This project is a currency converter that converts between different currencies using real-time exchange rates.
